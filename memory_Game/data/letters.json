@@ -1,0 +1,34 @@
+[
+    {
+        "image": "../assets/letter A.jpg",
+        "name": "letter A"
+    },
+    {
+        "image": "../assets/letter B.jpg",
+        "name": "letter B"
+    },
+    {
+        "image": "../assets/letter C.jpg",
+        "name": "letter C"
+    },
+    {
+        "image": "../assets/letter D.jpg",
+        "name": "letter D"
+    },
+    {
+        "image": "../assets/letter E.jpg",
+        "name": "letter E"
+    },
+    {
+        "image": "../assets/letter F.jpg",
+        "name": "letter F"
+    },
+    {
+        "image": "../assets/letter G.jpg",
+        "name": "letter G"
+    },
+    {
+        "image": "../assets/letter H.jpg",
+        "name": "letter H"
+    }
+]
